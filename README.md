@@ -1,3 +1,4 @@
 # Git_learning
 @kishore
-@in Child bracnh
+@in Child branch
+@understanding Merge
